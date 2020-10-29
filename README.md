@@ -23,6 +23,6 @@
 ## Tables DB 
 ![db](https://user-images.githubusercontent.com/71657821/95030529-113c3c80-0676-11eb-919a-ef80573ab2d2.png)
 
-##Swaggers2
+##Swagger2
 
 ![swagger2](https://user-images.githubusercontent.com/71657821/95030497-d0442800-0675-11eb-8950-19926aa6324c.png)
